@@ -70,9 +70,9 @@ pip install kiteconnect pandas numpy talib
 
 4. **Run the Script:**
 - Execute the trading strategy by running the following command:
-  ```
-  python3 Heikin_Ashi_Zerodha.py
-  ```
+```
+python3 Heikin_Ashi_Zerodha.py
+```
 - The script will run the algorithmic trading strategy at regular intervals, utilizing the Heikin Ashi candlestick charts and Zerodha API for automated trading.
 
 ## License
